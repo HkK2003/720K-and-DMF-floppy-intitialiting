@@ -21,7 +21,7 @@ Non tutti i Floppy Disk USB possono effettuare queste operazioni, per questa gui
 ### Come distinguere ad occhio le capacità dei floppy
 La seguente rappresentazione grafica, vi mostra le tre tipologie di floppy disk da 3,5" che si trovano (trovavano) in commercio:
 
-![FDD](/assets/it_floppy_35.png)
+![FDD](/assets/it-floppy-35.png)
 
 ### Le guide
 
