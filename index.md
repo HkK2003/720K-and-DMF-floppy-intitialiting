@@ -27,8 +27,8 @@ La seguente rappresentazione grafica, vi mostra le tre tipologie di floppy disk 
 
 Ecco le guide che ho realizato:
 
-- [Formattare a 720Kb](/720Kb_it.md) un Floppy utilizzando Windows o Linux (magari in seguito aggiornerò la pagina includendo MacOS)
+- [Formattare a 720Kb](/720Kb-it.md) un Floppy utilizzando Windows o Linux (magari in seguito aggiornerò la pagina includendo MacOS)
 
-- [Formattare a 1,86Mb](/168Mb_it.md) un Floppy utilzzando una chiavetta USB avviabile con FreeDOS
+- [Formattare a 1,86Mb](/168Mb-it.md) un Floppy utilzzando una chiavetta USB avviabile con FreeDOS
 
 Thanks
