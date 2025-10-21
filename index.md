@@ -1,9 +1,3 @@
----
-title: Formattazioni speciali da effettuare con i Floppy USB
-author: HkK2003
----
-(Content goes here. You can use {{ page.title }}, for example, to put the title in your post.)
-
 # Formattazioni speciali da effettuare con i Floppy USB
 
 In questa pagina voglio spiegare come fomrattare i Floppy Disk da 3,5" a **720Kb** e **1,68Mb**;
