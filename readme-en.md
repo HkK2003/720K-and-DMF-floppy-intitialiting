@@ -1,15 +1,16 @@
-# Formattazioni speciali da effettuare con i Floppy USB
+# Special Floppy formatting with USB Drive
 
-![GB](/assets/flag_gb.png){width=250} If you are looking for English guide, go here!
+# 🇮🇹 Se cerchi la guida in Italiano, [vai quì](/readme.md).
 
-In questa pagina voglio spiegare come fomrattare i Floppy Disk da 3,5" a **720Kb** e **1,68Mb**;
+Here I want to explain how format 3,5" Floppy drive at **720Kb** and **1,68Mb**;
 
-Per iniziare, diamo un'occhiata alle tipologie di floppy da 3,5" che sono stati commercializati.
+To start, let's take a look at the types of 3.5" floppies that have been marketed.
 
-### Come distinguere ad occhio le capacità dei floppy
-La seguente rappresentazione grafica, vi mostra le tre tipologie di floppy disk da 3,5" che si trovano (trovavano) in commercio.
+### How to distinguish the capabilities of floppies by eye
 
-![FDD](/assets/it-floppy-35.png)
+The following graphic representation shows you the three types of 3.5" floppy disks that are on the market.
+
+![FDD](/assets/en-floppy-35.png)
 Quewlle raffigurate sono le capacità standard nel formato FAT16. Sistemi operativi differenti da MS-DOS potevano inizializzare i folppy con capacità differenti.
 
 ### Perchè formattazioni speciali?
@@ -17,27 +18,30 @@ Quewlle raffigurate sono le capacità standard nel formato FAT16. Sistemi operat
 Veadremo nelle varie sezioni cosa hanno di speciale questo tipo di formattazione, devo però anticipare che non tutti i Floppy Disk USB possono effettuare queste operazioni.
 
 Per questa guida ho utilizzato un Floppy Disk USB marca HP di cui vi allego alcunbe foto.
+Not all USB Floppy Drive can do this, I use for this guide one HP Floppy Disk USB.
 
-*Questa è la scatola di cartone che contiene il Floppy Disk:*
+*This is the carton box of this floppy:*
 
 ![Carton Box](assets/IMG_20210914_165558.jpg)
 
-*E questo è il floppy:*
+*This the floppy:*
 
 ![Floppy](assets/IMG_20210914_165627.jpg)
 
-*Ancora un paio di viste*:
+*Another coupe of view:*
 
 ![One](assets/IMG_20210914_165647.jpg)
 
 ![Two](assets/IMG_20210914_165741.jpg)
 
-### Le guide
+### My guide
 
-Ecco le guide che ho realizato:
+Here my giude:
 
-- [Formattare a 720Kb](/720Kb-it.md) un Floppy utilizzando Windows o Linux (magari in seguito aggiornerò la pagina includendo MacOS)
+- [Format 720Kb](/720Kb.md) Floppy from Windows and Linux (maybe I'll update for MacOS later)
 
-- [Formattare a 1,86Mb](/168Mb-it.md) un Floppy utilzzando una chiavetta USB avviabile con FreeDOS
+- [Format 1,86Mb](/168Mb.md) Floppy from a bootable FreeDOS live USB memory
+
+- Guida in lingua [Italiana](/readme.md)
 
 Thanks
