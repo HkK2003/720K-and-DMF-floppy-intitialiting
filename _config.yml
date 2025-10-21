@@ -1,1 +1,2 @@
-languages: ["it", "en"]
+plugins_dir : _plugins
+languages : ["it", "en"]
