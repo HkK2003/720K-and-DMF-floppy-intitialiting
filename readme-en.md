@@ -1,6 +1,6 @@
 # Formattazioni speciali da effettuare con i Floppy USB
 
-## ![GB](/assets/flag_gb.png) If you are looking for English guide, [go here](/readme-en.md)
+![GB](/assets/flag_gb.png){width=250} If you are looking for English guide, go here!
 
 In questa pagina voglio spiegare come fomrattare i Floppy Disk da 3,5" a **720Kb** e **1,68Mb**;
 
