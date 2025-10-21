@@ -1,3 +1,9 @@
+---
+title: Floppy Disk 720 Kb
+permalink: /720Kb-it
+lang: it
+page_id: Floppy Disk 720 Kb
+---
 ## Floppy Disk 720 Kb
 
 I sistemi operativi moderni non contemplano più la formattazione di dischi nel formato 720Kb, o meglio, non la supportano tramite il tool grafico (GUI), ma continua ad essere possibile effettuare questa operazione tramite riga di comando (CLI).

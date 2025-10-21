@@ -1,2 +1,8 @@
 plugins_dir: _plugins
+plugins:
+  - jekyll-polyglot
+
 languages: ["it", "en"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
+parallel_localization: true
