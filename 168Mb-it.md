@@ -1,6 +1,7 @@
 #1,68 Mb
 
-### cooming soon
+### DMF
+#### Distribution Media Format
 
 https://github.com/pbatard/rufus
 https://github.com/christoh/fdformat
