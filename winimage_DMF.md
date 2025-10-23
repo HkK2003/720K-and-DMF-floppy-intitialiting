@@ -10,6 +10,8 @@ The software home page is empty, but if you want to take a look at it, it is sti
 
 #### the examination
 
+**Disclaimer**: *The following text is copied entirely from the winimage website, **I assume no responsibility** for what is written*
+
 ---
 
 ## About DMF
