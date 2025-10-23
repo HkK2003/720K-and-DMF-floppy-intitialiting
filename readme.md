@@ -9,7 +9,7 @@ Per iniziare, diamo un'occhiata alle tipologie di floppy da 3,5" che sono stati 
 ### Come distinguere ad occhio le capacità dei floppy
 La seguente rappresentazione grafica, vi mostra le tre tipologie di floppy disk da 3,5" che si trovano (trovavano) in commercio.
 
-![FDD](/assets/it-floppy-35.png)
+![FDD](/assets/it-floppy-35.jpg)
 Quelle raffigurate sono le capacità standard nel formato FAT16. Sistemi operativi differenti da MS-DOS potevano inizializzare i floppy con capacità differenti.
 
 ### Perchè formattazioni speciali?

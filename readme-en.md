@@ -2,7 +2,7 @@
 
 # 🇮🇹 Se cerchi la guida in Italiano, [vai qui](/readme.md).
 
-In this page I want to explain how format 3,5" Floppy drive at **720Kb** and **1,68Mb**;
+In this page I want to explain how format 3.5" Floppy drive at **720Kb** and **1.68Mb**;
 
 To start, let's have a look at 3.5" floppies types that have been marketed.
 
@@ -41,7 +41,7 @@ Here are the guides I created:
 
 - [Format 720Kb](/720Kb-en.md) Floppy from Windows and Linux (maybe I'll update for MacOS later)
 
-- [Format 1,86Mb](/168Mb-ne.md) Floppy from a bootable FreeDOS live USB memory
+- [Format 1.86Mb](/168Mb-ne.md) Floppy from a bootable FreeDOS live USB memory
 
 - Guida in lingua [Italiana](/readme.md)
 
