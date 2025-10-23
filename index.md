@@ -1,3 +1,8 @@
+---
+title: Formattazioni speciali da effettuare con i Floppy USB
+author: HkK2003
+---
+
 # Formattazioni speciali da effettuare con i Floppy USB
 
 ## 🇬🇧 If you are looking for English guide, [go here](/readme-en.md).
