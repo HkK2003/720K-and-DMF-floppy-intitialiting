@@ -29,7 +29,7 @@ Il metodo che vi illustrerò per formattare i floppy in modalità **DMF**, preve
 
 	
 
-In clhisura, vi lascio le note che rilasciava **winimage** a proposito del formato DMF. Con l timore che possano scoparire, le ho riportate per intero in [questa pagina in lingua inglese](/winimage_DMF).
+In clhisura, vi lascio le note che rilasciava **winimage** a proposito del formato DMF. Con l timore che possano scoparire, le ho riportate per intero in [questa pagina in lingua inglese](/winimage_DMF.md).
 
 ### 🇮🇹 [Italian home page](/readme.md)
 ### 🇬🇧 [English home page](/readme-en.md)
@@ -38,4 +38,5 @@ In clhisura, vi lascio le note che rilasciava **winimage** a proposito del forma
 https://it.wikipedia.org/wiki/Distribution_Media_Format
 http://justsolve.archiveteam.org/wiki/DMF_(Distribution_Media_Format)
 https://forum.winworldpc.com/discussion/7406/formatting-floppies-in-1-68-mb
+
 https://en.wikipedia.org/wiki/Fdformat
