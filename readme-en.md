@@ -10,7 +10,7 @@ To start, let's have a look at 3.5" floppies types that have been marketed.
 
 The following graphic representation shows you the three types of 3.5" floppy disks that are (was) on the market.
 
-![FDD](/assets/en-floppy-35.png)
+![FDD](/assets/en-floppy-35.jpg)
 
 The ones shown are the standard capacities in the FAT16 format.
 Operating systems different than MS-DOS may initialize disks with different capacities.
