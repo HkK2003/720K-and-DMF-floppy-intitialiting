@@ -1,6 +1,5 @@
-#1,68 Mb
+## Floppy Disk DMF (1,68Mb)
 
-### DMF
 #### Distribution Media Format
 Il **Distribution Media Format** (DMF) è un formato per floppy disk usato da *Microsoft* per distribuire software, che permette di memorizzare 1680 Kb di dati su un singolo dischetto da 3½ pollici anziché i canonici 1440 Kb.
 Il primo software distribuito da Microsoft in questo formato fu la revisione C del pacchetto Office 4.x.
@@ -40,3 +39,4 @@ http://justsolve.archiveteam.org/wiki/DMF_(Distribution_Media_Format)
 https://forum.winworldpc.com/discussion/7406/formatting-floppies-in-1-68-mb
 
 https://en.wikipedia.org/wiki/Fdformat
+
