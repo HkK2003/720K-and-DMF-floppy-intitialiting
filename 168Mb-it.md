@@ -6,6 +6,7 @@ Il primo software distribuito da Microsoft in questo formato fu la revisione C d
 fonte: [wikidedia](https://it.wikipedia.org/wiki/Distribution_Media_Format)
 
 Questo formato di flopy, viene letto e riconosciuto nativametne dal sistema operativo a partire da MS-DOS 6.2 (Windows 3.1), ma non può essere copiato utilizando i tools di sitema per la sua differente geometria:
+
 | | 1,44 | DMF |
 | --- | ------ |
 | Tracce | 80 | 80
@@ -39,4 +40,5 @@ http://justsolve.archiveteam.org/wiki/DMF_(Distribution_Media_Format)
 https://forum.winworldpc.com/discussion/7406/formatting-floppies-in-1-68-mb
 
 https://en.wikipedia.org/wiki/Fdformat
+
 
