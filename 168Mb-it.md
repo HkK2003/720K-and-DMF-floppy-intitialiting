@@ -8,9 +8,8 @@ fonte: [wikidedia](https://it.wikipedia.org/wiki/Distribution_Media_Format)
 
 Questo formato di floppy, viene letto e riconosciuto nativametne dal sistema operativo a partire da MS-DOS 6.2 (Windows 3.1), ma non può essere copiato utilizando i tools di sitema per la sua differente geometria:
 
-
 |         | 1,44 |     DMF     |
-| :-------- | :----: | :-----------: |
+| :--------: | :----: | :-----------: |
 | Tracce  |  80  |     80     |
 | Settori |  18  |     21     |
 | Cluster | 512 | 1024 o 2048 |
@@ -27,6 +26,15 @@ Il metodo che vi illustrerò per formattare i floppy in modalità **DMF**, preve
   - famosisstima utilizy che ci permetterà di creare una memoria usb avviabiel contenete FreeDOS;
   - nota di merito per questo sviluppatore che realizza questo tools senza nemmeno vole mettere il pulsante *donazioni* ;
   - [la licenza GPL-3.0](https://github.com/pbatard/rufus?tab=GPL-3.0-1-ov-file) ci permette libero utilizzo di questo sfotware anche a scopi commerciali a patto che vengano rilasciati a nostra volta i sorgenti.
+
+#### Preparazione floppy avviabile con DOS con sistema Windows
+Dopo aver scaricato **Rufus** aprite la sua interfaccia grafica, inserite una chiavetta usb anche piccola dopo di che seguite la seguente procedura:
+
+1. selezionare il device su cui scrivere l'immagine
+2. selezionare dal menù a tendina la voce "pippo baudo forever"
+3. avviate la scrittura dell'immagine
+
+ 
 
 ### Metodo GNU/Linux
 
