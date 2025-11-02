@@ -27,6 +27,16 @@ Il metodo che vi illustrerò per formattare i floppy in modalità **DMF**, preve
 	- [la licenza GPL-3.0](https://github.com/pbatard/rufus?tab=GPL-3.0-1-ov-file) ci permette libero utilizzo di questo sfotware anche a scopi commerciali a patto che vengano rilasciati a nostra volta i sorgenti.
 
 
+
+### Metodo GNU/Linux 
+sudo fdisk /dev/sdb
+sudo parted /dev/sdb mkpart primary fat32 0% 1.68MB
+sudo mkfs.vfat /dev/sdb1
+
+#Secondo metodo
+dd if=/dev/zero of=/tmp/floppy.img bs=1024 count=1680
+mkfs.vfat /tmp/floppy.img
+sudo dd if=/tmp/floppy.img of=/dev/sdb bs=1M
 	
 
 In clhisura, vi lascio le note che rilasciava **winimage** a proposito del formato DMF. Con l timore che possano scoparire, le ho riportate per intero in [questa pagina in lingua inglese](/winimage_DMF.md).
