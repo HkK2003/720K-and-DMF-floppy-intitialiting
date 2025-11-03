@@ -2,21 +2,19 @@
 
 #### Distribution Media Format
 
+
 Il **Distribution Media Format** (DMF) è un formato per floppy disk usato da *Microsoft* per distribuire software, che permette di memorizzare 1680 Kb di dati su un singolo dischetto da 3½ pollici anziché i canonici 1440 Kb.
 Il primo software distribuito da Microsoft in questo formato fu la revisione C del pacchetto Office 4.x.
 fonte: [wikidedia](https://it.wikipedia.org/wiki/Distribution_Media_Format)
 
-Questo formato di flopy, viene letto e riconosciuto nativametne dal sistema operativo a partire da MS-DOS 6.2 (Windows 3.1), ma non può essere copiato utilizando i tools di sitema per la sua differente geometria:
+Questo formato di floppy, viene letto e riconosciuto nativametne dal sistema operativo a partire da MS-DOS 6.2 (Windows 3.1), ma non può essere copiato utilizando i tools di sitema per la sua differente geometria:
 
-
-|                | 1,44 | DMF |
-| ---------------- | ------ | ----- |
-| Tracce         | 80   | 80  |
-| Settori        | 18   | 21  |
-| Cluster (byte) | 512  | 1024 o 2408    |
-| Voci nella directory principale | 224 | 16 |
-
-#### Il metodo
+|  | 1,44 | DMF |
+| --- | ------ |
+| Tracce | 80 | 80
+| Settori per traccia | 18 | 21
+| Dimensioni cluster (byte) | 512 | 1024 o 2048 |
+| Voci nella directory principale |	224	| 16 |
 
 Il metodo che vi illustrerò per formattare i floppy in modalità **DMF**, prevede l'utilizzo di tre software gratuiti (2 se usate un sistema GNU/Linux):
 
@@ -31,13 +29,8 @@ Il metodo che vi illustrerò per formattare i floppy in modalità **DMF**, preve
   - nota di merito per questo sviluppatore che realizza questo tools senza nemmeno vole mettere il pulsante *donazioni* ;
   - [la licenza GPL-3.0](https://github.com/pbatard/rufus?tab=GPL-3.0-1-ov-file) ci permette libero utilizzo di questo sfotware anche a scopi commerciali a patto che vengano rilasciati a nostra volta i sorgenti.
 
-In chiusura, vi lascio le note che **winimage** dava a proposito del formato DMF.
-Con l timore che possano scomparire, le ho riportate per intero in [questa pagina in lingua inglese](/winimage_DMF.md).
 
-##### Creazione del sistema FreeDOS avviabile.
-
-Da amante del software libero, mi tocca ammettere che creare una pendrive avviabile con Windows è pressochè immediato.
-Di questo dobbiamo però ringraziare un software libero in quanto **rufus** (utility usata per creare pendrive avviabili da immagini) ci permette nativamente di preparare questo sistema, senza dover scaricare pacchetti addizionali.
+	
 
 Per fare questo, quindi, 
 
