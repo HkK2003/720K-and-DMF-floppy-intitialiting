@@ -36,9 +36,11 @@ Dopo aver scaricato **Rufus** aprite la sua interfaccia grafica, inserite una ch
 2. selezionare dal menu a tendina la voce *Free DOS*
 3. avviate la scrittura dell'immagine
 
-Ora dobbiamo procurarci il binario di **fdformat**, possiamo andare a scaricare i sorgenti da [GitHub](https://github.com/christoh/fdformat], oppure scaricare in un unico pacchettino che contiene sia i sorgenti che il binario già compilato da [questo link](http://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/msdos/diskutil/fdfrm18.zip].
+Ora dobbiamo procurarci il binario di **fdformat**, possiamo andare a scaricare i sorgenti da [GitHub](https://github.com/christoh/fdformat), oppure scaricare in un unico pacchettino che contiene sia i sorgenti che il binario già compilato da [questo link](http://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/msdos/diskutil/fdfrm18.zip).
+
 Se il precedente link non dovesse funzionare, ho caricato il medesimo pacchetto in questo repository, pertanto è reperibile anche [quì](/assets/fdfrm18.zip).
 Una volta recuperato il binario (fdformat.exe), non dobbiamo fare altro che copiarlo sulla pendrive.
+
 Ora sarà sufficiente avviare il nostro sistema di chiavetta usb 
 
 ### Metodo GNU/Linux
